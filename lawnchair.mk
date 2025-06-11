@@ -14,4 +14,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
 endif
 
 # Themed Icons
-$(call inherit-product, vendor/google/overlays/ThemeIcons/config.mk)
+# $(call inherit-product, vendor/google/overlays/ThemeIcons/config.mk)
